@@ -1,0 +1,45 @@
+body {
+    font:normal normal 100%/1.0;
+    /* font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif; */
+}
+
+.maindiv {
+    display: block;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    /* border: 1px solid gray; */
+    padding: 25px;
+    /* background: lightgray; */
+}
+
+.word {
+    display: block;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+ol {
+    font-weight: bold;
+}
+
+.type {
+    display: block;
+    font-style:italic;
+    margin-top: 20px;
+}
+
+.phonetic {
+    display: block;
+    margin-top: 5px;
+}
+
+.deflist {
+
+}
+
+.deftext {
+    font-weight: normal;
+    display: inline;
+}
